@@ -3,6 +3,7 @@ This code uses SDS/2 software API to output raport like file. May be usefull for
 connectied to transmital drawing letter
 
 ## Installation
+Not required.
 
 ## Notes
 Technologies used: Python
